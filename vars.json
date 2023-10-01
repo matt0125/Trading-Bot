@@ -1,0 +1,8 @@
+{
+    "symbol": "AAPL",
+    "lookback": "20",
+    "lookback_upperLimit": "30",
+    "lookback_lowerLimit": "10",
+    "stopRisk_initial": ".98",
+    "stopRisk_trailing": ".98"
+}
