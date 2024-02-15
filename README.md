@@ -1,0 +1,4 @@
+-	Completely automated stock trading bot using Python, yfinance and Alpaca API libraries to process data and automate trades for the user
+-	Uses yfinance to take in market data such as open/close cost and volume every market open and compares the volatility of the last 30 days to yesterday’s last thirty days
+-	The bot then decides if investing in the stock would be profitable, then uses Aplaca to either invest in that stock or increase the stop loss to avoid losing profit after a breakout
+-	Utilized Quant Connect for backtesting and profit prediction then transferred to python to run as a bot once a day
